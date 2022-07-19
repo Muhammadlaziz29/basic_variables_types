@@ -8,4 +8,6 @@ Print two variables in one line
 
 void main() {
   // write your code here
+  String laptop = 'Alienware';
+  print(laptop);
 }
